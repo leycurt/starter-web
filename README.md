@@ -14,3 +14,6 @@ This is deployment notes
 
 Sample website with plenty of files for demos
 ### How to Contribute
+
+### Copyright
+
