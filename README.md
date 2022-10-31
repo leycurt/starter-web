@@ -14,6 +14,7 @@ This is deployment notes
 
 Sample website with plenty of files for demos
 ### How to Contribute
+Please fork repo and issue PR
 
 ### Copyright
 Copyright details here for readme
