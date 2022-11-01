@@ -18,3 +18,6 @@ Please fork repo and issue PR
 
 ### Copyright
 Copyright details here for readme
+
+
+I have added some info on Tuesday
