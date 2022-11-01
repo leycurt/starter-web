@@ -10,7 +10,11 @@
 		body {
 			padding-top: 50px;
 			padding-bottom: 20px;
+<<<<<<< HEAD
 			padding-bottom: 50px;
+=======
+			padding-bottom: 20px;
+>>>>>>> 41f7a31 (update simple)
 		}
 	</style>
 	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
