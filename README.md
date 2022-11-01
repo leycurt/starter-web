@@ -20,4 +20,4 @@ Please fork repo and issue PR
 Copyright details here for readme
 
 
-I have added some info on Tuesday
+I have added some info on Tuesday, more changes myfeature 2
